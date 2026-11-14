@@ -1,2 +1,4 @@
 Hello im devadharshini this is my new project
 Updating new changes
+
+directly adding to git repository using am
